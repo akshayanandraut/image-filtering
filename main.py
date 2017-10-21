@@ -196,7 +196,7 @@ while index!=0:
     elif index==4:
         bw()
     elif index==5:
-        crayon(1)
+        enhance(1)
     elif index==6:
         intensity = int(input("Enter Intensity:"))
         bright(intensity)
